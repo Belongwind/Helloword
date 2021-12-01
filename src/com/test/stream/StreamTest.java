@@ -9,6 +9,7 @@ public class StreamTest {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("a");
+        //test
         list.add("b");
         Object [] str = list.toArray();
         System.out.println(list);
